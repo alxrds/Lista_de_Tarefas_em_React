@@ -1,3 +1,5 @@
+![Preview](https://github.com/alxrds/Calculadora_Usando_Vue/blob/main/calculadora.PNG?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
