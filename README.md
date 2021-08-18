@@ -1,6 +1,8 @@
-![Preview](https://github.com/alxrds/Calculadora_Usando_Vue/blob/main/calculadora.PNG?raw=true)
+# Lista de Tarefas
 
-# Getting Started with Create React App
+![Preview](https://github.com/alxrds/Lista_de_Tarefas_em_React/blob/main/Capturar.PNG?raw=true)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
